@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Plan: 100 Days to Full-Stack Mastery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f8f9fa;
+        }
+
+        h1, h2, h3 {
+            color: #343a40;
+        }
+
+        h1 {
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+
+        h3 {
+            color: #0056b3;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Learning Plan: 100 Days to Full-Stack Mastery</h1>
+
+    <h2>Phase 1: Understanding the Basics (Days 1-20)</h2>
+
+    <h3>Days 1-5: Setting Up the Environment</h3>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=fBNz5xF-Kx4">Node.js Crash Course</a> by Traversy Media</li>
+        <li>Install Node.js and npm on your machine.</li>
+        <li>Create a basic Express.js server to understand routing and middleware.</li>
+        <li>Explore MongoDB and install it locally, understand the basics of NoSQL databases.</li>
+        <li>Set up a basic MERN stack project structure.</li>
+    </ul>
+
+    <h3>Days 6-10: Introduction to React</h3>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=sBws8MSXN7A">React JS Crash Course</a> by Traversy Media</li>
+        <li>Dive into React state management and its lifecycle methods.</li>
+        <li>Build a simple React application from scratch to reinforce concepts.</li>
+        <li>Understand and utilize props for passing data between components.</li>
+    </ul>
+
+    <!-- ... Repeat similar structures for other phases and days ... -->
+
+</body>
+</html>
